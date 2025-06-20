@@ -6,13 +6,6 @@
 - ⚙️ I’m looking to making cool projects and collaborating with others
 - 💣 Fun fact: I draw and play the guitar, and I was posted on Tim cook's twitter👀
 
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/eyimofeoladipo#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/eyimofeoladipo#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][visualstudiocode]
